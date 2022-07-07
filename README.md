@@ -41,6 +41,5 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana DeGette who recieved 73.8% of the vote and 272,892 total votes
 
-## Challenge Overview
-
-## Challenge Summary
+## Election Audit Summary
+The script used for this election audit is capable of being useful in other elections. It could serve as a template for nationwide elections with a few alterations. One would be to include additional datasets depending on the election. We could insert additional csv files with data by state if needed to analyze and count voting data. Another option is to insert additional code in otder to analyze the data further. For example, if we add another conditional statement, we could see which county voted for which candidate. This could be beneficial for campaign planning and targetting specific audiences.
